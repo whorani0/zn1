@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ku/jobs/
+Disallow: /ar/jobs/
+Disallow: /en/jobs/
+Disallow: /cached_uploads/
+Allow: /jobs/careers
+Allow: /ar/jobs/careers
+Allow: /ku/jobs/careers
+Sitemap: https://zaincash.iq/sitemap.xml
